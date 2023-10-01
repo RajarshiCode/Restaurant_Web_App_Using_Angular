@@ -1,0 +1,78 @@
+{
+  "posts": [
+    {
+      "id": 5,
+      "name": "Punjabi Dhaba",
+      "email": "dhaba@gmail.com",
+      "mobile": "123456789",
+      "address": "65,Hemchandra Lane",
+      "services": "Punjabi Food"
+    },
+    {
+      "id": 6,
+      "name": "Punjabi Dhaba",
+      "email": "dhaba@gmail.com",
+      "mobile": "123456789",
+      "address": "65,Hemchandra Lane",
+      "services": "Punjabi Food"
+    },
+    {
+      "id": 7,
+      "name": "Punjabi Dhaba, Newtown",
+      "email": "dhaba@gmail.com",
+      "mobile": "123456789",
+      "address": "65,Hemchandra Lane",
+      "services": "Punjabi Food"
+    },
+    {
+      "id": 8,
+      "name": "Test",
+      "email": "tesst@gmail.com",
+      "mobile": "987456331",
+      "address": "Action Area, Newtown, India",
+      "services": "test food"
+    },
+    {
+      "id": 10,
+      "name": "Sudipar Rannaghar",
+      "email": "sudiparrannaghar@gmail.com",
+      "mobile": "1234568978",
+      "address": "Puri, India",
+      "services": "Bengali, Chinese Foods"
+    }
+  ],
+  "signup": [
+    {
+      "name": "Rajarshi",
+      "email": "raj@gmail.com",
+      "mobile": "9988998899",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "name": "Test",
+      "email": "test@gmail.com",
+      "mobile": "123456789",
+      "password": "1234",
+      "id": 2
+    },
+    {
+      "name": "Subham",
+      "email": "subham@gmail.com",
+      "mobile": "98311326548",
+      "password": "1234",
+      "id": 3
+    },
+    {
+      "name": "Jaya",
+      "email": "jaya@gmail.com",
+      "mobile": "9433733086",
+      "password": "1234",
+      "id": 4
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
